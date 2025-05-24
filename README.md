@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello. My name is Tiffanie White. I am currently a student through CodeYou: Louisville. I am excited about what the future holds for myself and my family through learning computer programming. 
 <!--
 **TiffanieWhite/TiffanieWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
