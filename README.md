@@ -2,6 +2,7 @@
 Hello. My name is Tiffanie White. I am currently a student through CodeYou: Louisville. I am excited about what the future holds for myself and my family through learning computer programming. 
 <!--
 **TiffanieWhite/TiffanieWhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![2022-08-19](https://github.com/user-attachments/assets/f09b65ae-5623-40af-8617-aa401b970941)
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+added my pic
